@@ -1,0 +1,52 @@
+Paraneoptera_parGen19_L17, Cinara cedri genome assembly, contig: cinced3_s0478, whole genome shotgun sequence
+parGen22, Asian citrus Psyllid, Diaphorina citri - Florida Strain, whole genome shotgun sequence
+#parGen29, Asian citrus Psyllid, Diaphorina citri - Florida Strain, whole genome shotgun sequence
+#parGen32, Asian citrus Psyllid, Diaphorina citri - Florida Strain, whole genome shotgun sequence
+parGen30, Asian citrus Psyllid, Diaphorina citri - Florida Strain, whole genome shotgun sequence
+
+parGen13, Halyomorpha halys isolate HHAL.00 contig_88216, whole genome shotgun sequence
+
+>Paraneoptera_parGen6_L95
+C110816295, whole genome shotgun sequence	329	329	100%	2e-87	100.00%	MPAX011709813.1
+
+>Paraneoptera_parGen10_L94
+Cimex lectularius strain Harlan isolate CLEC.00 contig_163, whole genome shotgun sequence	1738	1738	100%	0.0	100.00%	JHUN02000163.1
+
+>Paraneoptera_parGen11_L94
+Frankliniella occidentalis isolate FOCC.00 contig_48828, whole genome shotgun sequence	1738	1738	100%	0.0	100.00%	JMDY03048828.1
+
+>Paraneoptera_parGen12_L33
+Gerris buenoi isolate GBUE.00 contig_107852, whole genome shotgun sequence	399	399	100%	2e-108	100.00%	JHBY02107852.1
+
+>Paraneoptera_parGen13_L94
+Halyomorpha halys isolate HHAL.00 contig_23400, whole genome shotgun sequence	1738	1738	100%	0.0	100.00%	JMPT03023400.1
+
+>Paraneoptera_parGen14_L33
+Homalodisca vitripennis isolate HVIT.00 contig_26213, whole genome shotgun sequence	399	399	100%	2e-108	100.00%	JJNS02026212.1
+
+>Paraneoptera_parGen15_L94
+Select seq gb|JHQO02038107.1|	Oncopeltus fasciatus isolate OFAS.00 contig_38107, whole genome shotgun sequence	1738	1738	100%	0.0	100.00%	JHQO02038107.1
+
+>Paraneoptera_parGen16_L95
+Pachypsylla venusta isolate PVEN.00 contig_22, whole genome shotgun sequence	329	329	100%	2e-87	100.00%	AZLD02000022.1
+
+>Paraneoptera_parGen17_L98
+Cinara cedri genome assembly, contig: cinced3_s0490, whole genome shotgun sequence	289	289	99%	3e-75	94.62%	CABPRJ010000490.1
+
+>Paraneoptera_parGen18_L98
+Cinara cedri genome assembly, contig: cinced3_s0490, whole genome shotgun sequence	292	292	98%	2e-76	95.14%	CABPRJ010000490.1
+
+>Paraneoptera_parGen19_L98
+Cinara cedri genome assembly, contig: cinced3_s0490, whole genome shotgun sequence	307	307	100%	8e-81	96.26%	CABPRJ010000490.1
+
+>Paraneoptera_parGen22_L96
+Asian citrus Psyllid, Diaphorina citri - Florida Strain, whole genome shotgun sequence	357	715	100%	9e-96	100.00%	AWGM01074661.1
+
+>Paraneoptera_parGen24_L95
+Bemisia tabaci isolate SSA1 scaffold3413, whole genome shotgun sequence	324	324	100%	8e-86	99.44%	PGTP01003636.1
+
+>Paraneoptera_parGen25_L96
+Bemisia tabaci isolate MEAM1 Scaffold123, whole genome shotgun sequence	357	357	100%	9e-96	100.00%	MAMS01000011.1
+
+>parGen30_L95
+Asian citrus Psyllid, Diaphorina citri - Florida Strain, whole genome shotgun sequence	318	318	100%	4e-84	98.88%	AWGM01106857.1
