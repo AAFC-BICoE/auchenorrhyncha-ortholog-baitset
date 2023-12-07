@@ -1,6 +1,6 @@
 # *Hemiptera:Auchenorrhyncha* Ortholog Target Enrichment Baits
 
-The 2017 Hemipteran Bait set provided by Christopher H. Dietrich and Yanghui Cao contains 56854 baits targeting 498 orthogroups. This is 16854 baits higher than Arbor Biosciences MyBait manufacturing tier of 40000. This project reduces the size of the bait while preserving the number of orthogroups and the focus on Auchenorrhyncha.
+The 2017 Hemipteran Bait set provided by Dr. Christopher H. Dietrich and Dr. Yanghui Cao contains 56854 baits targeting 498 orthogroups. This is 16854 baits higher than Arbor Biosciences MyBait manufacturing tier of 40000. This project reduces the size of the bait while preserving the number of orthogroups and the focus on Auchenorrhyncha.
 
 ### Acknowledgements
 
@@ -8,8 +8,10 @@ Developed under the direction of Jeremy Dettman as part of BioMob WP2
 
 This bait set was made possible by the significant contributions from the following scientists:
 
-- Christopher H. Dietrich and Yanghui Cao for providing aligned orthologs from the 2017 baitset
-- Dr. Joel Kits for the phylogenetic expertise to reduce the bait set size while preserving effectiveness
+- Dr. Christopher H. Dietrich (Illinois Natural History Survey, University of Illinois) and
+- Dr. Yanghui Cao (Illinois Natural History Survey, University of Illinois & Key Laboratory of Plant Protection Resources and Pest Management of the Ministry of Education, Northwest A&F University)
+  - for providing aligned orthologs from the 2017 baitset
+- Dr. Joel Kits (Agriculture & Agri-Food Canada) for the phylogenetic expertise to reduce the bait set size while preserving effectiveness
 - Dr. Jeremy Dettman, Julie Chapados, Robin Richter, Wayne McCormick (Agriculture & Agri-Food Canada) for the extensive validation and implementing of the bait set.
 
 ### Design Methodology
@@ -70,7 +72,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Citations
 
-1. Yanghui Cao, Christopher H Dietrich, Joel H Kits, Dmitry A Dmitriev, Robin Richter, Jackson Eyres, Jeremy R Dettman, Ye Xu, Min Huang, Phylogenomics of microleafhoppers (Hemiptera: Cicadellidae: Typhlocybinae): morphological evolution, divergence times, and biogeography, *Insect Systematics and Diversity*, Volume 7, Issue 4, July 2023, 1, https://doi.org/10.1093/isd/ixad010
+1. Christopher H Dietrich, Julie M Allen, Alan R Lemmon, Emily Moriarty Lemmon, Daniela M Takiya, Olivia Evangelista, Kimberly K O Walden, Patrick G S Grady, Kevin P Johnson, Anchored Hybrid Enrichment-Based Phylogenomics of Leafhoppers and Treehoppers (Hemiptera: Cicadomorpha: Membracoidea), Insect Systematics and Diversity, Volume 1, Issue 1, October 2017, Pages 57–72, https://doi.org/10.1093/isd/ixx003
+   
+2. Yanghui Cao, Christopher H Dietrich, Joel H Kits, Dmitry A Dmitriev, Robin Richter, Jackson Eyres, Jeremy R Dettman, Ye Xu, Min Huang, Phylogenomics of microleafhoppers (Hemiptera: Cicadellidae: Typhlocybinae): morphological evolution, divergence times, and biogeography, *Insect Systematics and Diversity*, Volume 7, Issue 4, July 2023, 1, https://doi.org/10.1093/isd/ixad010
 
-2. Faircloth BC. 2016. PHYLUCE is a software package for the analysis of conserved genomic loci. Bioinformatics 32:786-788. doi:10.1093/bioinformatics/btv646.
+3. Faircloth BC. 2016. PHYLUCE is a software package for the analysis of conserved genomic loci. Bioinformatics 32:786-788. doi:10.1093/bioinformatics/btv646.
 
