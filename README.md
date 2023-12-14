@@ -64,7 +64,7 @@ Yanghui Cao, Christopher H Dietrich, Joel H Kits, Dmitry A Dmitriev, Robin Richt
 
 ### Copyright
 
-Agriculture & Agri-Food Canada, Government of Canada
+Copyright (c) His Majesty The King in Right of Canada, as represented by the Minister of Agriculture and Agri-Food, 2023 | Copyright (c) Sa Majesté le Roi du chef du Canada, représentée par le ministre de l’Agriculture et de l’Agroalimentaire, 2023
 
 ### License
 
